@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="constraint_network_charging">Following Constraints are set : Require Charging and is Connected to Network</string>
+    <string name="enqueued_with_backup">\n Enqueued with BackUp</string>
+    <string name="enqueued">\n Enqueued</string>
+    <string name="running_with_backup">\n Running with BackUp</string>
+    <string name="running">\n Running</string>
+    <string name="blocked_with_backup">\n Blocked with BackUp</string>
+    <string name="blocked">\n Blocked</string>
+    <string name="succeeded_with_backup">\n Succeeded with BackUp</string>
+    <string name="succeeded">\n Succeeded</string>
+    <string name="failed_with_backup">\n Failed with BackUp</string>
+    <string name="failed">\n Failed</string>
+    <string name="cancelled_with_backup">\n Cancelled with BackUp</string>
+    <string name="cancelled">\n Cancelled</string>
+    <string name="work_policy_keep">The state of the work is preserved with Existing Periodic Work Policy KEEP</string>
+</resources>
